@@ -1,10 +1,7 @@
 #include<iostream>
-// #include<vector>
 using namespace std;
 
 int main(){
-
-    // Vowels removal
 
     char str[100];
     cout<<"enter the string : ";
@@ -37,5 +34,6 @@ int main(){
     {
         cout<<str[i];
     }
+
 
 }
